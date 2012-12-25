@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0414c269-84ae-4778-843b-b3a84cfff96a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/christmas/github.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/christmas/1.png" afterPath="$PROJECT_DIR$/images/christmas/1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/christmas/2.png" afterPath="$PROJECT_DIR$/images/christmas/2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/christmas/3.png" afterPath="$PROJECT_DIR$/images/christmas/3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/christmas/4.png" afterPath="$PROJECT_DIR$/images/christmas/4.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/christmas.html" afterPath="$PROJECT_DIR$/christmas.html" />
     </list>
     <ignored path="recyclemf.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +32,7 @@
       <file leaf-file-name="christmas.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/christmas.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="75" selection-start="1931" selection-end="1931" vertical-scroll-proportion="0.1552795">
+            <state line="46" column="12" selection-start="1735" selection-end="1735" vertical-scroll-proportion="2.1866667">
               <folding />
             </state>
           </provider>
@@ -61,6 +65,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="thanksgiving.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/thanksgiving.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="8" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="christmas.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/christmas.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -85,7 +98,7 @@
       <file leaf-file-name="christmas.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/christmas.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="16" selection-start="940" selection-end="940" vertical-scroll-proportion="0.0">
+            <state line="55" column="122" selection-start="902" selection-end="902" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -196,6 +209,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="christmas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="recyclemf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="recyclemf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -345,13 +372,18 @@
       <created>1356429737506</created>
       <updated>1356429737506</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added github image">
+      <created>1356452098466</created>
+      <updated>1356452098466</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="129" width="1337" height="654" extended-state="0" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854578" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32854578" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -366,7 +398,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854578" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -409,7 +440,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added github link" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added github image" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -426,6 +457,7 @@
     <MESSAGE value="Added link to the site in readme." />
     <MESSAGE value="Fixed url to Bren's site." />
     <MESSAGE value="Added github link" />
+    <MESSAGE value="Added github image" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -434,11 +466,6 @@
     <entry file="file://$PROJECT_DIR$/js/jquery-1.7.1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/thanksgiving.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="8" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/thanksgiving.html">
@@ -461,11 +488,6 @@
         <state line="0" column="177" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="30" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/christmas.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="110" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0" />
@@ -476,14 +498,26 @@
         <state line="0" column="114" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="30" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/thanksgiving.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="8" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/christmas.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="16" selection-start="940" selection-end="940" vertical-scroll-proportion="0.0" />
+        <state line="55" column="122" selection-start="902" selection-end="902" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/christmas.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="75" selection-start="1931" selection-end="1931" vertical-scroll-proportion="0.1552795">
+        <state line="46" column="12" selection-start="1735" selection-end="1735" vertical-scroll-proportion="2.1866667">
           <folding />
         </state>
       </provider>
