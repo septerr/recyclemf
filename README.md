@@ -1,1 +1,1 @@
-This is the source for recyclemotherfucker.com. Bren Riddle holds the copyrights to these images, please contact her if you'd like to use any of these four images - 1.png, 2.png. 3.png and 4.png.
+This is the source for [recyclemotherfucker.com](http://www.recyclemotherfucker.com). Bren Riddle holds the copyrights to the images on this site, please contact her if you'd like to use any of these four images - 1.png, 2.png. 3.png and 4.png.
