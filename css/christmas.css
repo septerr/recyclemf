@@ -56,16 +56,15 @@ body{
     margin: 0 auto;
 }
 
-#share {
-    margin-top:100px;
+#share, #source {
+    margin-top:50px;
 }
 
-#share img{
+#share img, #source img{
     width:72px;
     height: 72px;
     position: relative;
     top: 50px;
-
 }
 
 .fb-like{
@@ -75,3 +74,4 @@ body{
 #qmark{
     font-size: 200px;
 }
+
